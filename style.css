@@ -1,0 +1,26 @@
+body {
+  background-color: darkslategrey;
+}
+.imgs-caro {
+  height: 700px;
+}
+.carousel {
+  width: 80%;
+  margin: 20px auto;
+}
+.outside {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+.inside-flex {
+  height: 100%;
+  width: 50%;
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+.margin-from-top {
+  margin-top: 20px;
+}
